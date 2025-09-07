@@ -505,6 +505,7 @@ CONFIG_ARM64_TLB_RANGE=y
 #
 CONFIG_ARM64_BTI=y
 CONFIG_ARM64_E0PD=y
+CONFIG_ARM64_MTE=y
 # end of ARMv8.5 architectural features
 
 #
